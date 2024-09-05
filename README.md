@@ -51,7 +51,7 @@ pip install pandas numpy yfinance yahooquery scikit-learn tensorflow plotly jinj
    - Esegui lo script specificando il file CSV del portafoglio Degiro:
    
      ```bash
-     python degirosmartportfolio.py
+     python DegiroSmartPortfolio.py
      ```
 
    - Lo script leggerà il file CSV, calcolerà il valore totale del portafoglio e genererà previsioni per ogni asset o indice replicato.
